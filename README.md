@@ -2,7 +2,7 @@
 
 ## <div align="center">A Passionate Programming And Developer From Viet Nam
 
-### Hi there 👋
+### Hi there, I'm Kien 👋
 
 ### 👀 I’m interested in technology
 ### 🌱 I’m currently learning about technology like Web, App,...
