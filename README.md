@@ -14,7 +14,7 @@
 * 📧 letrungkien156@gmail.com
   
   
-### Laguages and Tools
+### Languages and Tools
   ![image](https://user-images.githubusercontent.com/88261296/168462600-9fbe466b-d29b-4173-8b3c-61545cecb932.png)
 ![image](https://user-images.githubusercontent.com/88261296/168462609-7ef1e565-aaf8-4871-9175-7c28508dc3d6.png)
 ![image](https://user-images.githubusercontent.com/88261296/168462625-60c18bfb-64e2-4c4a-b1b5-cf31387b2598.png)
